@@ -1,0 +1,1 @@
+<h1>Diva ERP Laravel Ready</h1>
